@@ -1,8 +1,3 @@
-var without = require('lodash/without');
-
-var array = [1, 2, 3, 4, 5, 6, 7 ,8];
-console.log('without3', without(array, 3));
-
 var cssStyle = document.querySelector("#cssStyle");
 var bgGradient = document.querySelector("#backgroundGradient");
 var clrLeft = document.querySelector("#clrleft");
